@@ -4,4 +4,4 @@ This documentation is the official and central place for all ZPanel project rela
 
 # Contribution Guidelines
 
-TBC
+visit documentation [ZPanelX](zpanelx/)
