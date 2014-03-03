@@ -29,7 +29,8 @@ Fresh install of the OS with minimal options. The following modules MUST NOT be 
 #Officially supported installers are available for Ubuntu 12.04 LTS, CentOS 6.4 and Windows in our ZPanelX Guides & How-To forum section.
 Other Unsupported OSes
 
-#Ubuntu 12.04 LTS based (server version) (desktop version please dot not use network-manager use networking)
+#Ubuntu 12.04 LTS based 
+(server version) (desktop version please dot not use network-manager use networking)
 
 These OSes are unsupported (which means that they can't be labeled as "official" but still work with ZPanel)
 
